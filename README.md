@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Sou estudante de Gestão da Informação na Universidade Federal de Uberlândia (UFU).<br>Atualmente estou aprimorando minhas habilidades em Engenharia de Dados e Análise de Dados.<br>Estou construindo meu portfólio com base em Python, Pandas, SQL, Power BI e C#.
 
 ## 🌐 Socials:
