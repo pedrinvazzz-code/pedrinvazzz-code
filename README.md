@@ -1,4 +1,4 @@
-# About Me:
+[# About Me:
 Sou estudante de Gestão da Informação na Universidade Federal de Uberlândia (UFU).<br>Atualmente estou aprimorando minhas habilidades em Engenharia de Dados e Análise de Dados.<br>Estou construindo meu portfólio com base em Python, Pandas, SQL, Power BI e C#.
 
 ## 🌐 Socials:
@@ -15,3 +15,4 @@ Sou estudante de Gestão da Informação na Universidade Federal de Uberlândia 
 [![](https://komarev.com/ghpvc/?username=pedrinvazzz-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://github.com/pedrinvazzz-code/Certificados---Pedro-Henrique)
