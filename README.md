@@ -1,38 +1,83 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pedro Henrique Ferreira Borges Vaz
-===========================================================================================================================================================
+<div align="center">
 
-Estudante de Gestão da Informação - UFU
----------------------------------------
+# Hi 👋, I'm Pedro Henrique
 
-Sou estudante de Gestão da Informação na Universidade Federal de Uberlândia (UFU).
+[![Profile views](https://komarev.com/ghpvc/?username=pedrinvazzz-code&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/pedrinvazzz-code)
 
-Atualmente estou aprimorando minhas habilidades em Engenharia de Dados e Análise de Dados.
+Estudante de Gestão da Informação (UFU) | Data Engineering & Analytics
 
-Estou construindo meu portfólio com base em Python, Pandas, SQL, Power BI e C#.
+</div>
 
-* 🌍  Estou em Uberlândia - MG
-* 🖥️  Veja meu portfolio em [Meu portfolio](http://github.com/pedrinvazzz-code)
-* ✉️  Você pode entrar em contato comigo por [pedrinvazzz@gmail.com](mailto:pedrinvazzz@gmail.com)
-* 🧠  Atualmente eu estou aprendendo Engenharia e Análise de Dados (python, pandas, SQL e C#)
-* 👥  E estou aberto a colaborar em Projetos de Dados
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+## 👤 Sobre mim
 
-### Socials
+Sou estudante de **Gestão da Informação** na **Universidade Federal de Uberlândia (UFU)**, atualmente no 5º período.
 
-<p align="left"> <a href="https://www.github.com/pedrinvazzz-code" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/ph_borges16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/Pedro Henrique Ferreira Borges Vaz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+Venho aprendendo a construir soluções de dados na prática, de planilhas e APIs até bancos de dados na nuvem e dashboards em Power BI.
 
-<b>My GitHub Stats</b>
+- 🔭 Atualmente construindo: pipelines de ETL e dashboards analíticos
+- 🌱 Aprendendo: automação avançada e boas práticas de engenharia de dados e IA
+- 💬 Pergunte-me sobre: Python, SQL, Power BI, ETL
+- 📫 Como me encontrar: veja os contatos no final
 
-<a href="http://www.github.com/pedrinvazzz-code"><img src="https://github-readme-stats.vercel.app/api?username=pedrinvazzz-code&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedrinvazzz-code's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/pedrinvazzz-code"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrinvazzz-code&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🚀 Stack
 
-<a href="https://github.com/pedrinvazzz-code" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinvazzz-code&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
 
-<b>Top Repositories</b>
+[![My Skills](https://skillicons.dev/icons?i=python,cs,postgres,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-<div width="100%" align="center"><a href="https://github.com/pedrinvazzz-code/Certificados---Pedro-Henrique" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrinvazzz-code&repo=Certificados---Pedro-Henrique&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
+- 🚲 **[Cairo Special Bikes](https://github.com/pedrinvazzz-code/Cairo-Special-Bikes)** — Pipeline de ETL automatizado (Google Sheets → Supabase → Power BI), em uso real por um negócio
+- 🗳️ **[Banco de Dados - Eleições 2024](https://github.com/pedrinvazzz-code/banco-de-dados-eleicoes-2024)** — Consultas SQL avançadas sobre mais de 900 mil registros
+- 🐼 **[Dominando Pandas](https://github.com/pedrinvazzz-code/Dominando-Pandas)** — Estudo autodirigido de análise de dados com Python
+- 💻 **[POO em C#](https://github.com/pedrinvazzz-code/POO-em-Csharp-)** — Progressão de exercícios até um sistema completo de locação de veículos
+
+---
+
+## 📈 Gráfico de Contribuições
+
+<div align="center">
+
+![3D Contribution Graph](https://raw.githubusercontent.com/pedrinvazzz-code/pedrinvazzz-code/output/github-contribution-grid-snake.svg)
+
+[![3D Contrib](profile-3d-contrib/profile-night-green.svg)](profile-3d-contrib/profile-night-green.svg)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrinvazzz-code&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrinvazzz-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinvazzz-code&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ✉️ Contato
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phenrriquevaz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-ferreira-borges-vaz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ph_bggg)
+
+</div>
