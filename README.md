@@ -18,7 +18,7 @@ Venho aprendendo a construir soluções de dados na prática, de planilhas e API
 
 - 🔭 Atualmente construindo: pipelines de ETL e dashboards analíticos
 - 🌱 Aprendendo: automação avançada e boas práticas de engenharia de dados e IA
-- 💬 Pergunte-me sobre: Python, SQL, Power BI, ETL
+- 💬 Pergunte-me sobre: C#, Python, SQL, Power BI, ETL
 - 📫 Como me encontrar: veja os contatos no final
 
 ---
