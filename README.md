@@ -69,19 +69,6 @@ Venho aprendendo a construir soluções de dados na prática, desde planilhas e 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrinvazzz-code&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrinvazzz-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinvazzz-code&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## ✉️ Contato
 
 <div align="center">
