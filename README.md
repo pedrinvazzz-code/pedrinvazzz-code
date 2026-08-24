@@ -41,6 +41,7 @@ Venho aprendendo a construir soluções de dados na prática, desde planilhas e 
 
 ## 📌 Projetos em destaque
 
+* 🧾 **[NetTRAC-NFSe-ETL](https://github.com/pedrinvazzz-code/NetTRAC-NFSe-ETL)** — Pipeline de ETL desenvolvido para uma empresa, integrando XML/PDF, Python, Supabase e Power BI para análise financeira e controle de pagamentos
 * 🚲 **[Cairo Special Bikes](https://github.com/pedrinvazzz-code/Cairo-Special-Bikes)** — Pipeline de ETL automatizado (Google Sheets → Supabase → Power BI), em uso real por um negócio
 * 🏢 **[IBM Data Engineering Projects](https://github.com/pedrinvazzz-code/IBM_project)** — Projetos práticos utilizando Python, Pandas, SQL, ETL e web scraping para extração e processamento de dados
 * 🗳️ **[Banco de Dados - Eleições 2024](https://github.com/pedrinvazzz-code/banco-de-dados-eleicoes-2024)** — Consultas SQL avançadas sobre mais de 900 mil registros
