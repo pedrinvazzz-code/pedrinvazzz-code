@@ -50,6 +50,16 @@ Venho aprendendo a construir soluções de dados na prática, desde planilhas e 
 
 ---
 
+## 💻 Linguagens mais utilizadas
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinvazzz-code\&layout=compact\&theme=github_dark\&hide_border=true\&langs_count=8)](https://github.com/pedrinvazzz-code)
+
+</div>
+
+---
+
 ## 📈 Gráfico de Atividade
 
 <div align="center">
