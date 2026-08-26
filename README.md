@@ -50,16 +50,6 @@ Venho aprendendo a construir soluções de dados na prática, desde planilhas e 
 
 ---
 
-## 📈 Gráfico de Atividade
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrinvazzz-code\&theme=react-dark\&hide_border=true)
-
-</div>
-
----
-
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
