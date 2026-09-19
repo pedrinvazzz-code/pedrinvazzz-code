@@ -12,7 +12,7 @@ Estudante de Gestão da Informação (UFU) | Data Engineering & Analytics
 
 ## 👤 Sobre mim
 
-Sou estudante de **Gestão da Informação** na **Universidade Federal de Uberlândia (UFU)**, atualmente no 5º período.
+Sou estudante de **Gestão da Informação** na **Universidade Federal de Uberlândia (UFU)**, atualmente no 7º período.
 
 Venho aprendendo a construir soluções de dados na prática, desde planilhas e APIs até bancos de dados na nuvem, pipelines de ETL e dashboards em Power BI.
 
